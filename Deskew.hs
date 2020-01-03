@@ -1,4 +1,4 @@
-module Math.Deskew  (
+module Deskew  (
       Bit (..)
     , deskew
 ) where
